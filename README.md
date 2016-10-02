@@ -1,3 +1,5 @@
+Note on submission of the project : You will find the four PNG files are in folder 'figure' and the four R code files in folder 'Rcode'.
+
 ## Introduction
 
 This assignment uses data from
